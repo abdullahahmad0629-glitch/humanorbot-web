@@ -35,6 +35,13 @@ label {
   margin-top: 8px;
 }
 
+.hint {
+  margin: 0;
+  color: #57606a;
+  font-size: 13px;
+}
+
+input,
 select,
 textarea,
 button {
